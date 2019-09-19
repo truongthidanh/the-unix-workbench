@@ -544,3 +544,4 @@
 - Aaron Schlichting
 -Shreyansh Pathak
 - Knut Husdal
+- Sean Kross
